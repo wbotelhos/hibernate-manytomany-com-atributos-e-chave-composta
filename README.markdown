@@ -1,5 +1,6 @@
 # Hibernate – Relacionamento ManyToMany Com Atributos e Chave Composta
 
+Utilizando o Hibernate, será mostrado como criar uma tabela intermediária com atributos e chave composta formada pelas chaves estrangeiras (Forein Key).
 
 ## Blog Post
 
